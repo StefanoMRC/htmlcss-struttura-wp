@@ -46,12 +46,11 @@ header{
     margin-right: 20px;
 }
 .colonna-center{
-    width: calc(60% - 60px);
+    width: calc(60% - 40px);
     background-color: aqua;
     height: calc(80% - 40px);
     float: left;
     margin-bottom: 20px;
-    margin-right: 20px;
 }
 .colonna-dx{
     width: 20%;
