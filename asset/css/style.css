@@ -37,7 +37,7 @@ header{
     background-color: aqua;
     margin-bottom: 20px;
 }
-.colonna-dx{
+.colonna-sx{
     width: 20%;
     background-color: aqua;
     height: calc(80% - 40px);
@@ -46,14 +46,14 @@ header{
     margin-right: 20px;
 }
 .colonna-center{
-    width: calc(60% - 40px);
+    width: calc(60% - 60px);
     background-color: aqua;
     height: calc(80% - 40px);
     float: left;
     margin-bottom: 20px;
     margin-right: 20px;
 }
-.colonna-sx{
+.colonna-dx{
     width: 20%;
     background-color: aqua;
     height: calc(80% - 40px);
